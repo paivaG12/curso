@@ -2,10 +2,12 @@ body{
     background-color: #dbeafe;  
 }
 h1{
-    font-size: 50px;
+    font-size: 80px;
     color: #1e3a8a;
 }
 img{
-    width: 60px;
-    height: 60px;
+    width: 200px;
+    height: 200px;
+    border: black;
+    border-radius: 30px;
 }
